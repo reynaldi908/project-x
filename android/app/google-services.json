@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "312032148472",
+    "project_id": "delta-avenue-336104",
+    "storage_bucket": "delta-avenue-336104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312032148472:android:33330c20ff31c9c025f40d",
+        "android_client_info": {
+          "package_name": "com.project.x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312032148472-ih314irmq6l4bkclm6qj5u2tv3cehm3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.x",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "312032148472-8mq8hd92agf17f0hf6mre2mlsias04ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQZz-WUc-vazqug5JNWcI3YR-hJJiLPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312032148472-8mq8hd92agf17f0hf6mre2mlsias04ri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312032148472-4k39vp47gbj344j62smjl080osig1jh7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.x"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
