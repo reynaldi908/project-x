@@ -1,4 +1,4 @@
-# duplicate App
+# Project X
 
 A new Flutter project.
 
